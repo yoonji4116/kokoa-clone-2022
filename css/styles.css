@@ -5,3 +5,18 @@
 body {
   font-family: "Mukta", sans-serif;
 }
+
+.welcome-header {
+  margin: 90px 0px;
+  text-align: center;
+}
+
+.welcome-header__title {
+  margin-bottom: 40px;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.welcome-header__text {
+  opacity: 0.6;
+}
